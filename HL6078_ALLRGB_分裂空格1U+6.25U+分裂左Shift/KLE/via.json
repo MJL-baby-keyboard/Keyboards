@@ -1,7 +1,7 @@
 {
-  "name": "asd",
-  "vendorId": "0xFE11",
-  "productId": "0x0221",
+  "name": "hl6078_rgb",
+  "vendorId": "0xBB01",
+  "productId": "0xBB01",
   "matrix": {
     "rows": 5,
     "cols": 14
